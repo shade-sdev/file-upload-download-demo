@@ -1,0 +1,7 @@
+POST http://localhost:8098/api/v1/folder/test
+Content-Type: application/json
+Accept: application/json
+
+{
+  "test": "true"
+}

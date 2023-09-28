@@ -1,0 +1,10 @@
+server:
+  port: 8098
+
+app:
+  base-url: C:\Users\saul\Downloads
+
+logging:
+  level:
+    root: info
+    com.file.upload.demo.controller: info
