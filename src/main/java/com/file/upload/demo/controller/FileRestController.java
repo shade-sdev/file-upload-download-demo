@@ -26,7 +26,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.file.upload.demo.model.UploadedFile;
-import com.file.upload.demo.model.dto.TestDto;
 import com.file.upload.demo.model.exception.FileException;
 
 import lombok.Cleanup;
